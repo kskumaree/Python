@@ -1,0 +1,4 @@
+git init   //goto the folder location and make that into git local repository
+git help <verb>
+git status
+git reset
